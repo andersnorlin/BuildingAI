@@ -9,7 +9,7 @@ Final project for the Building AI course
 
 Summary
 
-Pet Detector is an AI-based app that identifies whether an animal in an image is a dog or a cat based on their physical characteristics such as height, weight, and body length. This solution helps quickly classify pets in environments such as animal shelters or vet clinics.
+Pet Detector is an AI-based app that identifies whether an animal in an image is a dog or a cat based on their physical characteristics such as height, weight, and body length. This solution helps quickly classify pets in environments such as animal shelters or vet clinics. Building AI course project
 
 Background
 
