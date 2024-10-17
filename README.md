@@ -2,14 +2,12 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-Pet Detector
-
+# Pet Detector
 Final project for the Building AI course
 
 # Summary
 
-Pet Detector is an AI-based app that identifies whether an animal in an image is a dog or a cat based on their physical characteristics such as height, weight, and body length. This solution helps quickly classify pets in environments such as animal shelters or vet clinics. Building AI course project
+Pet Detector is an AI-based app that identifies whether an animal in an image is a dog or a cat based on their physical characteristics such as height, weight, and body length. This solution helps quickly classify pets in environments such as animal shelters or vet clinics.
 
 ## Background
 
@@ -47,5 +45,3 @@ The project could grow by adding features to classify breeds or detect health is
 	•	Inspiration from existing pet recognition apps and animal welfare data platforms.
 	•	Data sourced from open datasets available from animal shelters and pet research institutes.
 For example: Sleeping Cat on Her Back by Umberto Salvagnin / CC BY 2.0
-
-This version incorporates your idea into the structure of the markdown template for the final project.
